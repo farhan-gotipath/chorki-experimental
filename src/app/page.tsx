@@ -1,5 +1,4 @@
-import AccountCenterCard from "@/components/ui/AccountCenterCard";
-import Image from "next/image";
+import AccountCenterCard from "@/components/ui/account-center/AccountCenterCard";
 
 export default function Home() {
   return (

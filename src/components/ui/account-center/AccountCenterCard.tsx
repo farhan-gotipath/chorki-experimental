@@ -1,4 +1,4 @@
-import PencilOutlineIcon from "@/icons/PencilOutlineIcon";
+import PencilOutlineIcon from "@/icons/outline/PencilOutlineIcon";
 import React from "react";
 import UserProfileCardsSection from "./UserProfileCardsSection";
 
